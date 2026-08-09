@@ -1,6 +1,6 @@
 ---
-name: voice-feynman
-description: "Write in the Feynman register — the voice pack for the shared writing skills (chapter, essay, bookmap). Use when the user asks for Feynman-style prose."
+name: tone-wonder
+description: "Write in the wonder register — first principles, playful clarity, intellectual honesty, awe that earns itself (inspired by Richard Feynman's lectures). Use when the user asks for wonder-register or Feynman-style prose."
 ---
 # Feynman × MKBHD Writing Assistant (v3.2)
 

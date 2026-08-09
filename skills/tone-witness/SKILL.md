@@ -1,6 +1,6 @@
 ---
-name: voice-baldwin
-description: "Write in the Baldwin register — the voice pack for the shared writing skills (chapter, essay, bookmap). Use when the user asks for Baldwin-style prose."
+name: tone-witness
+description: "Write in the witness register — personal moral testimony, direct address, urgency without ornament (inspired by James Baldwin). Use when the user asks for witness-register or morally urgent prose."
 ---
 # BALDWIN — Writing Architect Command Set
 *Two-mode writing intelligence in James Baldwin's moral tradition, built for the instructor's practice and his Substack publications.*

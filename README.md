@@ -45,8 +45,7 @@ prompt.
 | `syllabus-architect` | outcomes-first syllabus design with alignment audits |
 | `socratic-prompt-coach` | does your prompt teach, or think for the student? |
 
-Voice packs (`voice-*`) provide writing registers for the shared writing
-skills.
+Tone packs (`tone-*`) provide writing registers for the shared writing skills — named for the register, inspirations credited inside (wonder, naturalist, scenic, spare, witness, aphoristic).
 
 ## Status
 
