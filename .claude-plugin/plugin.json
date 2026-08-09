@@ -1,0 +1,8 @@
+{
+  "name": "bear-brown-tools",
+  "version": "0.1.0",
+  "description": "Agent Skills for writing, teaching, branding, music, and software design — phase-gated consultant personas with pushback rules and evidence discipline. 46 reviewed skills plus drafts.",
+  "author": { "name": "Bear Brown", "email": "bear@bearbrown.co" },
+  "license": "MIT",
+  "repository": "https://github.com/nikbearbrown/bear-brown-tools"
+}
